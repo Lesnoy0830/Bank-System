@@ -43,6 +43,6 @@ print(account.account_number)
 print(account.balance)
 
 print(account.deposit(102321))
-print(account.withdraw(100000000000))
+print(account.withdraw(1000000000))
 print(account.withdraw(10000))
 print(account.display_balance())
